@@ -442,12 +442,6 @@
 
 ![triangle.svgz](triangle.svgz)
 
-```
-<svg width="20" height="20">
-  <circle cx="10" cy="10" r="9" fill="blue"/>
-</svg>
-```
-
 ```!
 <svg width="20" height="20">
   <circle cx="10" cy="10" r="9" fill="red"/>
