@@ -1,48 +1,41 @@
-## Images
 
-![](apple.png)
+# Web resources
 
-![nice](at.png)
+{type: image, format: png}
+![](https://github.com/Aaron-Dayton/svg_and_web_resources/blob/main/manuscript/resources/apple.png?raw=true)
 
-abc ![](at.png) def
+![](https://raw.githubusercontent.com/Aaron-Dayton/svg_and_web_resources/c455cedc6603ac9574fe91e274f57155b4db8bda/manuscript/resources/frog-1.svg)
 
-![](https://i.postimg.cc/LXpfSBbT/apple.png)
+![](https://raw.githubusercontent.com/Aaron-Dayton/svg_and_web_resources/c455cedc6603ac9574fe91e274f57155b4db8bda/manuscript/resources/frog.2.svg)
 
-abc ![](https://i.postimg.cc/9Qwqqn3b/at.png) def
+{type: image, format: svgz}
+![](https://github.com/Aaron-Dayton/svg_and_web_resources/blob/main/manuscript/resources/frog.ribbit.svgz?raw=true)
 
-abc
-![](https://i.postimg.cc/26GqDpvk/bank.png)
-def
+![](https://raw.githubusercontent.com/Aaron-Dayton/svg_and_web_resources/c455cedc6603ac9574fe91e274f57155b4db8bda/manuscript/resources/frog.svg)
 
-para
+{type: image, format: svgz}
+![](https://github.com/Aaron-Dayton/svg_and_web_resources/blob/main/manuscript/resources/frog.svg-1.svgz?raw=true)
 
-![](https://i.postimg.cc/26GqDpvk/bank.png)
+![](https://raw.githubusercontent.com/Aaron-Dayton/svg_and_web_resources/c455cedc6603ac9574fe91e274f57155b4db8bda/manuscript/resources/frog.svg.svg)
 
-para
+{type: image, format: svgz}
+![](https://github.com/Aaron-Dayton/svg_and_web_resources/blob/main/manuscript/resources/frog.svg.svgz?raw=true)
 
-  ![](https://i.postimg.cc/26GqDpvk/bank.png)
+{type: image, format: svgz}
+![](https://github.com/Aaron-Dayton/svg_and_web_resources/blob/main/manuscript/resources/frog.svg.svgz.svgz?raw=true)
 
-Groundhog Day is a 1993 American fantasy comedy film directed by Harold Ramis and written by Ramis and Danny Rubin. It stars Bill Murray, Andie MacDowell and Chris Elliott. Murray portrays Phil Connors, a cynical television weatherman covering the annual ![](https://i.postimg.cc/SxbmDT2D/markua-logo.png) Groundhog Day event in Punxsutawney, Pennsylvania, who becomes trapped in a time loop forcing him to relive February 2nd repeatedly. The film also stars Stephen Tobolowsky, Brian Doyle-Murray, Marita Geraghty, Angela Paton, Rick Ducommun, Rick Overton, and Robin Duke.
+{type: image, format: svgz}
+![](https://github.com/Aaron-Dayton/svg_and_web_resources/blob/main/manuscript/resources/ribbit.svgz?raw=true)
 
-![](web1---.png)
+{type: image, format: svgz}
+![](https://github.com/Aaron-Dayton/svg_and_web_resources/blob/main/manuscript/resources/triangle-1.svgz?raw=true)
 
-![](web1---.jpg)
+{type: image, format: jpg}
+![](https://github.com/Aaron-Dayton/svg_and_web_resources/blob/main/manuscript/resources/web1---.jpg?raw=true)
 
+{type: image, format: png}
+![](https://github.com/Aaron-Dayton/svg_and_web_resources/blob/main/manuscript/resources/web1---.png?raw=true)
 
-![](web2---abc.png)
+{type: image, format: jpg}
+![](https://github.com/Aaron-Dayton/svg_and_web_resources/blob/main/manuscript/resources/web3---123e4567-e89b-12d3-a456-42661417400.jpg?raw=true)
 
-![](web2---abc.jpg)
-
-
-### UUID minus 1 character
-
-![](web3---123e4567-e89b-12d3-a456-42661417400.png)
-
-![](web3---123e4567-e89b-12d3-a456-42661417400.jpg)
-
-
-### UUID minus 1 hyphen
-
-![](web4---123e4567e89b-12d3-a456-426614174000.png)
-
-![](web4---123e4567e89b-12d3-a456-426614174000.jpg)
